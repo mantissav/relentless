@@ -1,0 +1,32 @@
+{
+  "CONFIG_VERSION": 1,
+  "modules": {
+    "Natura TE4 Compatibility": {
+      "enabled": false
+    },
+    "Natura Forestry Compatibility": {
+      "enabled": false
+    },
+    "Natura MFR Compatibility": {
+      "enabled": false
+    },
+    "Natura BuildCraft Compatibility": {
+      "enabled": false
+    },
+    "Natura Thaumcraft Compatibility": {
+      "enabled": false
+    },
+    "Natura FMP Compatibility": {
+      "enabled": false
+    },
+    "Natura NEI Compatibility": {
+      "enabled": false
+    },
+    "Natura Waila Compatibility": {
+      "enabled": false
+    },
+    "Natura TreeCapitator Compatibility": {
+      "enabled": false
+    }
+  }
+}
